@@ -1,2 +1,2 @@
-# TA-KYN-STORE-01
-Engin Oil
+# TA-KYN-STORE-01 { SHOP CODE }
+
